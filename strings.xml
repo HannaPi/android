@@ -1,0 +1,49 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">What kind of traveller are you?</string>
+    <!-- Name hint -->
+    <string name="name_hint">Type your name here</string>
+    <!-- Blank space -->
+    <string name="blank"> </string>
+    <!-- First question about accommodation -->
+    <string name="accommodation">What kind of accommodation would you choose?</string>
+    <string name="hotel">A luxurious seaside hotel</string>
+    <string name="cottage">A cottage</string>
+    <string name="tent">A tent</string>
+    <!-- Second question about travel -->
+    <string name="travel">How do you organize your travel?</string>
+    <string name="myself">I do it myself</string>
+    <string name="friend">I let a friend or spouse do it for me</string>
+    <string name="agency">Travel agency does it for me</string>
+    <!-- Third question about transport -->
+    <string name="transport">What transport method do you usually choose?</string>
+    <string name="car">I always rent a car</string>
+    <string name="bus">I use public transport</string>
+    <string name="on_foot">I walk</string>
+    <!-- Fourth question about weather -->
+    <string name="weather">What kind of weather do you like?</string>
+    <string name="sunny">It has to be sunny</string>
+    <string name="snowy">I love snow</string>
+    <string name="mixed">Rainbows are the best</string>
+    <!-- Fifth question about activities -->
+    <string name="activities">What do you like to do?</string>
+    <string name="lazy">Sunbathing</string>
+    <string name="active">Skiing, surfboarding, hiking...</string>
+    <string name="tourist">I have a checklist with all the monuments and attractions</string>
+    <!-- Submit button -->
+    <string name="submit">Submit</string>
+    <!-- First part of the result message, displayed after the name -->
+    <string name="result_you_got">, you got</string>
+    <!-- Second part of the result message, displayed after the number of points -->
+    <string name="result_points">points. \nYou travel like:</string>
+    <!-- Result message one -->
+    <string name="message1">Independent traveller. You plan your travel on your own and don’t mind going there alone. Always walking your own path, you are no stranger to wilderness. You don’t care about the landmarks, what excites you are the things you can experience. You’d go for waterboarding, bungee jumping, cycling etc.</string>
+    <!-- Result message two -->
+    <string name="message2">Tourist. You like to visit different places and try new things. The plan is to experience the place you’re visiting, no matter the weather. You want to see it all – landmarks, food, water parks and hiking paths.</string>
+    <!-- Result message three -->
+    <string name="message3">Relaxed holidaymaker. When on vacation, you like to be spoiled. You prefer to have someone else do the heavy lifting for you. All-inclusive holiday, a spa or a cruise are just the thing for you!</string>
+    <!-- Result message four - when not all questions were answered -->
+    <string name="message4">You did not answer all of the questions! Please finish the quiz before submitting!</string>
+
+
+</resources>
